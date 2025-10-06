@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn RESTful APIs",
+      "description": "Study HTTP methods and API design principles",
+      "completed": true,
+      "priority": "high",
+      "createdAt": "2024-01-15T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Build React Frontend",
+      "description": "Create a modern React app with hooks and components",
+      "completed": false,
+      "priority": "medium",
+      "createdAt": "2024-01-15T11:30:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Implement Error Handling",
+      "description": "Add proper error handling and loading states",
+      "completed": false,
+      "priority": "high",
+      "createdAt": "2024-01-15T14:20:00.000Z"
+    }
+  ]
+}
