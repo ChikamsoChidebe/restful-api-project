@@ -2,6 +2,12 @@
 
 A complete demonstration of RESTful API concepts with React frontend and JSON Server backend.
 
+## 🌐 Live Demo
+
+**Frontend**: https://restful-api-project-cyan.vercel.app/
+
+*Note: The live demo uses LocalStorage for data persistence since the backend runs locally.*
+
 ## 🎯 Project Overview
 
 This project demonstrates mastery of:
